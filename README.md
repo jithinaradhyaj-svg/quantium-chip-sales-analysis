@@ -51,8 +51,9 @@ The following analysis steps were performed:
 
 Example charts from the analysis:
 
-![Brand Sales](visuals/brand_sales.png)
+![Brand Sales](brand_sales.png)
 
-![Pack Size Sales](visuals/pack_size_sales.png)
+![Pack Size Sales](pack_size_sales.png)
 
-![Customer Segment Sales](visuals/segment_sales.png)
+![Customer Segment Sales](segment_sales.png)
+
